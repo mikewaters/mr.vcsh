@@ -5,3 +5,6 @@ include = cat /usr/share/mr/vcsh
 
 [$HOME/.config/vcsh/repo.d/mr.git]
 checkout = vcsh clone https://github.com/mikewaters/mr.vcsh.git mr
+
+[$HOME/.config/vcsh/repo.d/vim.git]
+checkout = vcsh clone https://github.com/mikewaters/vim.vcsh.git vim
