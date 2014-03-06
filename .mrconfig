@@ -2,6 +2,7 @@
 git_gc = git gc "$@"
 jobs = 5
 #include = cat /home/vagrant/bin/mr/lib/vcsh
+#hello
 
 [$HOME/.config/vcsh/repo.d/mr.git]
 checkout = vcsh clone https://github.com/mikewaters/mr.vcsh.git mr
