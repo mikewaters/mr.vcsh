@@ -1,2 +1,0 @@
-[/home/vagrant/.config/vcsh/repo.d/test.git]
-checkout = vcsh clone https://github.com/mikewaters/test.vcsh.git test
