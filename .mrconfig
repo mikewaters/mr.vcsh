@@ -6,3 +6,4 @@ jobs = 5
 #[$HOME/.config/vcsh/repo.d/mr.git]
 #checkout = vcsh clone https://github.com/mikewaters/mr.vcsh.git mr
 
+include = cat ~/.config/mr/config.d/*
